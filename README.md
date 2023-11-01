@@ -18,5 +18,5 @@ This read me is an introduction to the repo.
 
 ```sql
   SELECT * FROM table_name
-  WHERE col1 = "value"
+  WHERE col1 = "value";
 ```
